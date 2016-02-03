@@ -3,3 +3,4 @@
   tasks:
     - debug: var=foo
     - debug: var=bar
+    - debug: var=baz
