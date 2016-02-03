@@ -1,5 +1,5 @@
 ---
 - hosts: example
   tasks:
-    - debug: var={{ foo }}
-    - debug: var={{ bar }}
+    - debug: var=foo
+    - debug: var=bar
